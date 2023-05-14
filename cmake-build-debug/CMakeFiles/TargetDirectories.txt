@@ -1,0 +1,3 @@
+C:/Users/xtdx/Desktop/Codeforces_Tool-master/cmake-build-debug/CMakeFiles/Project.dir
+C:/Users/xtdx/Desktop/Codeforces_Tool-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xtdx/Desktop/Codeforces_Tool-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

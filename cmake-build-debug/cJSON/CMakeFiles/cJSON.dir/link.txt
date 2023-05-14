@@ -1,0 +1,2 @@
+"D:\Program Files (x86)\JetBrain\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc libcJSON.a CMakeFiles/cJSON.dir/cJSON.c.obj
+"D:\Program Files (x86)\JetBrain\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" libcJSON.a

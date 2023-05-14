@@ -1,0 +1,5 @@
+"D:\Program Files (x86)\JetBrain\CLion 2022.2.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\xtdx\Desktop\Codeforces_Tool-master -B C:\Users\xtdx\Desktop\Codeforces_Tool-master\cmake-build-debug
+-- Found CURL: C:/Users/xtdx/Desktop/Codeforces_Tool-master/cmake-build-debug/libcurl.dll.a   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/xtdx/Desktop/Codeforces_Tool-master/cmake-build-debug
